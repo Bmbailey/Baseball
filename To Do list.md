@@ -18,6 +18,10 @@ This is a To Do list:
 
 * Decide where to seek sources for each location, establish sources
 
+  * Find food distinct to that city, when possible
+  * Find bars: local beer, local booze. e.g., [Malort](http://www.jeppsonsmalort.com/jm.html) See [Malort's](https://www.youtube.com/watch?v=q7s16ewP1RU) own unaired commercial for more info.
+
 * Research distribution opportunities and possible conflicts with each one. Will there be any conflicts with potential sponsors and potential distort routes?
+
 
   ​
