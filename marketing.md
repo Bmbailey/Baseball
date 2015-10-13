@@ -26,7 +26,7 @@ To begin a new discussion, open a new issue labeled 'discussion,' create a todo 
 ##### Traditons
 ##### Persons of Interest
 [Angie Ables](https://www.facebook.com/angieables?fref=ts)
-- [x] Establish contact with Angie
+- [x] [Establish contact with Angie](#2)
 
 #### DFW
 ##### Locations of Interest
