@@ -11,9 +11,3 @@ To begin a new discussion, open a new issue labeled 'discussion,' create a todo 
 ``` gfm
 - [ ] [This is a test todo](#1)
 ```
-
-## To Do
-- [ ] Finalize Title
-- [ ] Find logo Designer (possibly [Tyler Fleming](http://tflem.com))
-- [ ] Finalize Website Design.
-- [ ] Establish a final list of our needed gear
