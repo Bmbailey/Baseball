@@ -8,6 +8,6 @@ If you’ve never used Github before (and lets face it, most video people probab
 
 **Step 1: Create a Github Account**
 
-![Create a Github Account](http://recordit.co/rLqZffiqo1)
+![Create a Github Account](img/githubAccountSetup.gif)
 
 This is a fairly straightforward test. Please don’t fail it.
