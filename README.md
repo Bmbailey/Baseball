@@ -33,3 +33,5 @@ You'll want to download both [GitHub Desktop](http://desktop.github.com) and [At
 
 ### Clone the Repository
 Now that [atom](http://atom.io) and [GitHub Desktop](http://desktop.github.com) are installed on your computer, we need to clone the repository. All you have to do is press the "Clone in Desktop" button on the front page of the repo, select where you'd like the folder to live (might I reccomend your Documents folder). Congradulations! you're all set up now!
+
+![Clone the Repo](/img/cloneInDesktop.gif)
