@@ -32,3 +32,13 @@ To begin a new discussion, open a new issue labeled 'discussion,' create a todo 
 ##### Locations of Interest
 ##### Traditons
 ##### Persons of Interest
+
+#### Seattle
+##### Locations of Interest
+##### Traditons
+##### Persons of Interest
+
+#### Anaheim 
+##### Locations of Interest
+##### Traditons
+##### Persons of Interest
