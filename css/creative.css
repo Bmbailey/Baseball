@@ -474,3 +474,7 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #222;
 }
+
+.icon-color-primary {
+    color: #ac000f;
+}
