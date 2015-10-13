@@ -11,16 +11,3 @@ To begin a new discussion, open a new issue labeled 'discussion,' create a todo 
 ``` gfm
 - [ ] [This is a test todo](#1)
 ```
-
-## To Do:
-- [ ] Copyright idea
-- [ ] Purchase Domain
-- [ ] Discuss budgeting to purchase related domains and TLD's for redirect options
-- [ ] Determine who will maintain the website.
-- [ ] Discuss the diagram films question?
-- [ ] Possibly re-establishthe domain for [Diagram](http://www.diagramfilms.com)
-- [ ] Establish core crew
-- [ ] Look into accounting options
-- [ ] Create NDA for crew
-- [ ] Finalize central communication for all project related discussions.
-- [ ] Research and decide on the best distribution options for our production.
