@@ -21,24 +21,178 @@ To begin a new discussion, open a new issue labeled 'discussion,' create a todo 
 
 ### City Information
 
-#### Houston
+
+### AL WEST
+
+
+#### DFW
 ##### Locations of Interest
-##### Traditons
+##### Traditions
+##### Persons of Interest
+
+#### HOUSTON
+##### Locations of Interest
+##### Traditions
 ##### Persons of Interest
 [Angie Ables](https://www.facebook.com/angieables?fref=ts)
 - [x] [Establish contact with Angie](https://github.com/Bmbailey/Baseball/issues/2)
 
-#### DFW
+#### ANAHEIM
 ##### Locations of Interest
-##### Traditons
+##### Traditions
 ##### Persons of Interest
 
-#### Seattle
+#### SEATTLE
 ##### Locations of Interest
-##### Traditons
+##### Traditions
 ##### Persons of Interest
 
-#### Anaheim 
+#### OAKLAND
 ##### Locations of Interest
-##### Traditons
+##### Traditions
+##### Persons of Interest
+
+
+### NL WEST
+
+
+#### LOS ANGELES
+##### Locations of Interest
+##### Traditions
+##### Persons of Interest
+
+#### SAN FRANCISCO
+##### Locations of Interest
+##### Traditions
+##### Persons of Interest
+
+#### PHOENIX
+##### Locations of Interest
+##### Traditions
+##### Persons of Interest
+
+#### SAN DIEGO
+##### Locations of Interest
+##### Traditions
+##### Persons of Interest
+
+#### DENVER
+##### Locations of Interest
+##### Traditions
+##### Persons of Interest
+
+
+### AL CENTRAL
+
+
+#### KANSAS CITY
+##### Locations of Interest
+##### Traditions
+##### Persons of Interest
+
+#### MINNEAPOLIS
+##### Locations of Interest
+##### Traditions
+##### Persons of Interest
+
+#### CLEVELAND
+##### Locations of Interest
+##### Traditions
+##### Persons of Interest
+
+#### CHICAGO (SOUTH SIDE)
+##### Locations of Interest
+##### Traditions
+##### Persons of Interest
+
+#### DETROIT
+##### Locations of Interest
+##### Traditions
+##### Persons of Interest
+
+
+### NL CENTRAL
+
+
+#### ST. LOUIS
+##### Locations of Interest
+##### Traditions
+##### Persons of Interest
+
+#### PITTSBURG
+##### Locations of Interest
+##### Traditions
+##### Persons of Interest
+
+#### CHICAGO
+##### Locations of Interest
+##### Traditions
+##### Persons of Interest
+
+#### MILWAUKEE
+##### Locations of Interest
+##### Traditions
+##### Persons of Interest
+
+#### CINCINNATI
+##### Locations of Interest
+##### Traditions
+##### Persons of Interest
+
+
+### AL EAST
+
+
+#### TORONTO
+##### Locations of Interest
+##### Traditions
+##### Persons of Interest
+
+#### NEW YORK (YANKEES)
+##### Locations of Interest
+##### Traditions
+##### Persons of Interest
+
+#### BALTIMORE
+##### Locations of Interest
+##### Traditions
+##### Persons of Interest
+
+#### BOSTON
+##### Locations of Interest
+##### Traditions
+##### Persons of Interest
+
+#### TAMPA BAY
+##### Locations of Interest
+##### Traditions
+##### Persons of Interest
+
+
+### NL EAST
+
+
+#### NEW YORK (METS)
+##### Locations of Interest
+##### Traditions
+##### Persons of Interest
+
+#### DC
+##### Locations of Interest
+##### Traditions
+##### Persons of Interest
+
+#### MIAMI
+##### Locations of Interest
+##### Traditions
+##### Persons of Interest
+
+#### ATLANTA
+##### Locations of Interest
+##### Traditions
+##### Persons of Interest
+
+#### PHILADELPHIA
+##### Locations of Interest
+##### Traditions
 ##### Persons of Interest
