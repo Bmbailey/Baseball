@@ -13,7 +13,7 @@ To begin a new discussion, open a new issue labeled 'discussion,' create a todo 
 ```
 
 ## To Do
-- [ ] Finalize Title
+- [x] Finalize Title
 - [ ] Find logo Designer (possibly [Tyler Fleming](http://tflem.com))
 - [ ] Finalize Website Design.
 - [ ] Establish a final list of our needed gear
