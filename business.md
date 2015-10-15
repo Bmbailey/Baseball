@@ -15,8 +15,8 @@ To begin a new discussion, open a new issue labeled 'discussion,' create a todo 
 ## To Do:
 - [ ] Trademark [title](https://github.com/Bmbailey/Baseball/issues/4)
 - [ ] Copyright [concept](https://github.com/Bmbailey/Baseball/issues/5)
-- [ ] Purchase Domain
-- [ ] Discuss budgeting to purchase related domains and TLD's for redirect options
+- [ ] Purchase [Domain](https://github.com/Bmbailey/theoldballgame/issues/6)
+- [ ] Discuss budgeting to purchase related [domains](https://github.com/Bmbailey/theoldballgame/issues/6) and TLD's for redirect options
 - [ ] Determine who will maintain the website.
 - [ ] Discuss the diagram films question?
 - [ ] Possibly re-establishthe domain for [Diagram](http://www.diagramfilms.com)
