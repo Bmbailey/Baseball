@@ -26,9 +26,10 @@ To begin a new discussion, open a new issue labeled 'discussion,' create a todo 
 
 
 #### DFW
-##### Locations of Interest - Fort Worth beer, [Rahr](http://rahrbrewing.com)
+##### Locations of Interest
+Fort Worth beer, [Rahr](http://rahrbrewing.com)
 Dallas beer, [Deep Ellum](http://www.deepellumbrewing.com)
-BBQ [Slow Bone](http://www.slowbone.com) 
+BBQ [Slow Bone](http://www.slowbone.com)
 ##### Traditions
 ##### Persons of Interest
 
