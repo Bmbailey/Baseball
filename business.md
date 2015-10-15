@@ -13,7 +13,8 @@ To begin a new discussion, open a new issue labeled 'discussion,' create a todo 
 ```
 
 ## To Do:
-- [ ] Copyright idea
+- [ ] Trademark [title](https://github.com/Bmbailey/Baseball/issues/4)
+- [ ] Copyright [concept](https://github.com/Bmbailey/Baseball/issues/5)
 - [ ] Purchase Domain
 - [ ] Discuss budgeting to purchase related domains and TLD's for redirect options
 - [ ] Determine who will maintain the website.
