@@ -14,6 +14,6 @@ To begin a new discussion, open a new issue labeled 'discussion,' create a todo 
 
 ## To Do
 - [x] Finalize Title
-- [ ] Find logo Designer (possibly [Tyler Fleming](http://tflem.com))
+- [ ] Find logo Designer (possibly [Tyler Fleming](http://tflem.com) or [Paige Miller](http://paigemillerdesign.com))
 - [ ] Finalize Website Design.
 - [ ] Establish a final list of our needed gear
