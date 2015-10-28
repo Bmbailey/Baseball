@@ -18,6 +18,7 @@ To begin a new discussion, open a new issue labeled 'discussion,' create a todo 
 - [ ] Establish sources in each location.
 - [ ] Put together an informed list of food distinct to the city or region, wherever possible. (e.g. [Slingers](http://en.wikipedia.org/wiki/Slinger))
 - [ ] Put together a lis of local beer, liquor, and neighborhood hangouts. (e.g., [Malort](http://www.jeppsonsmalort.com/jm.html) See [Malort's](https://www.youtube.com/watch?v=q7s16ewP1RU) own unaired commercial for more info.)
+- [ ] Go on Marc Maron's podcast [WTF](http://www.wtfpod.com)
 
 ### City Information
 
