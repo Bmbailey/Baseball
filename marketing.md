@@ -179,7 +179,7 @@ BBQ, [Slow Bone](http://www.slowbone.com)
 
 #### NEW YORK (METS)
 ##### Locations of Interest
-##### Traditions
+##### Traditions: Research inflatable apple HR celebration
 ##### Persons of Interest
 
 #### DC
