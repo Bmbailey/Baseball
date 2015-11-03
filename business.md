@@ -14,7 +14,7 @@ To begin a new discussion, open a new issue labeled 'discussion,' create a todo 
 
 ## To Do:
 - [ ] Copyright idea
-- [ ] [Purchase Domain](#6)
+- [ ] [Purchase Domain](https://github.com/Bmbailey/theoldballgame/issues/6)
 - [ ] Discuss budgeting to purchase related domains and TLD's for redirect options
 - [ ] Determine who will maintain the website.
 - [ ] Discuss the diagram films question?
